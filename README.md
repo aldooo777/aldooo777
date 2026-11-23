@@ -30,17 +30,13 @@ I am passionate about technology, programming, and building applications that so
 
 ---
 
-
-<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldooo777/aldooo777/output/github-contribution-grid-snake.svg" width="100%" alt="Neon Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/aldooo777/aldooo777/output/neon-snake.svg"
+    width="100%"
+    alt="Aldo Neon Contribution Snake"
+  />
 </p>
-
-<p align="center">
-  <i>Every contribution tells a story.</i>
-</p>
-
 
 ---
 
