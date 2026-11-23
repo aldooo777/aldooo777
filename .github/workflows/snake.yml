@@ -1,4 +1,4 @@
-name: Generate Neon Contribution Snake
+name: Generate Neon Snake
 
 on:
   schedule:
@@ -17,13 +17,13 @@ jobs:
 
     steps:
       - name: Generate Neon Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: aldooo777
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2300E5FF&color_dots=%230B1929,%23132F4C,%230B6685,%2300A6C7,%237C4DFF
+            dist/neon-snake.svg?palette=github-dark&color_snake=%2300E5FF&color_dots=%230B1929,%23132F4C,%230B6685,%2300A6C7,%237C4DFF
 
-      - name: Publish Snake
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
