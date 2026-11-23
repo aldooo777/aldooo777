@@ -1,134 +1,82 @@
-# 👋 Hi, I'm Aldo Steven Dion Sitorus!
+# 👨‍💻 ALDO STEVEN DION SITORUS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aldo%20Steven%20Dion%20Sitorus&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Informatics%20%7C%20Software%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="assets/aldo-banner.png" width="100%" alt="Aldo Steven Dion Sitorus - Institut Teknologi Del"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Mobile+App+Developer;Web+Developer;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Code" alt="Typing SVG"/>
-</a>
+### Informatics Student | Software Developer | Tech Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-aldooo777-181717?style=for-the-badge&logo=github)](https://github.com/aldooo777)
+[![Campus](https://img.shields.io/badge/Institut%20Teknologi%20Del-Class%20of%202024-0077B5?style=for-the-badge)](https://www.del.ac.id/)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🐍 My Contribution Journey
 
-Hello! I'm **Aldo Steven Dion Sitorus**, an Information Technology student at **Institut Teknologi Del**, Class of 2024.
+<div align="center">
 
-I am passionate about technology, programming, and building applications that solve real-world problems.
+![Contribution Snake](https://raw.githubusercontent.com/aldooo777/aldooo777/output/github-contribution-grid-snake.svg)
 
-📍 **Location:** Sosor Ladang, Parmaksian, Toba, North Sumatra, Indonesia  
-🎓 **Education:** Institut Teknologi Del — Class of 2024  
-💻 **Interests:** Software Development, Web Development, Mobile Development, and Artificial Intelligence.
-
-- 🌱 Currently exploring new technologies and improving my programming skills.
-- 📱 Interested in developing mobile applications using Flutter.
-- 🌐 Building web applications with Laravel.
-- 🤖 Exploring Machine Learning and Artificial Intelligence.
-- 🚀 Always learning, creating, and improving.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,php,dart,js" />
-</p>
-
-### Frameworks & Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,laravel,html,css" />
-</p>
-
-### Database & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,androidstudio" />
-</p>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of the projects I have worked on during my learning journey:
-
-### ⚽ Futsal Booking System
-A mobile application for futsal field reservations, featuring user authentication, field schedules, booking management, and admin approval.
-
-**Technologies:** Flutter, Laravel, PostgreSQL.
-
-### 🥬 Sayur Mayur
-A Flutter-based mobile application focused on displaying vegetable products and providing a simple shopping experience.
-
-**Technologies:** Flutter, Dart.
-
-### 💊 E-Pharma Logistics
-A web-based pharmaceutical logistics management application.
-
-**Technologies:** Laravel, PHP, Database Management.
-
-### 🍌 Banana Ripeness Classification
-An image classification project to identify banana ripeness using machine learning and computer vision.
-
-**Technologies:** Python, TensorFlow/Keras, Ultralytics.
-
-### 🏨 Hotel Reservation System
-A Java desktop application for managing hotel room reservations, guests, and administrator operations.
-
-**Technologies:** Java, MySQL.
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aldooo777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldooo777&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aldooo777&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Project One</h3>
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aldooo777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="95%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldooo777&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/aldooo777">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="assets/projects/project-1.png" width="100%" alt="Project One"/>
+<p><strong>PROJECT NAME</strong></p>
+<p>Write a short description of your project and the problem it solves.</p>
+<a href="https://github.com/aldooo777/REPOSITORY-1">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💡 Project Two</h3>
+<div align="center">
+<img src="assets/projects/project-2.png" width="100%" alt="Project Two"/>
+<p><strong>PROJECT NAME</strong></p>
+<p>Write a short description of your project and its main features.</p>
+<a href="https://github.com/aldooo777/REPOSITORY-2">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📱 Project Three</h3>
+<div align="center">
+<img src="assets/projects/project-3.png" width="100%" alt="Project Three"/>
+<p><strong>PROJECT NAME</strong></p>
+<p>Write a short description of your application or system.</p>
+<a href="https://github.com/aldooo777/REPOSITORY-3">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🤖 Project Four</h3>
+<div align="center">
+<img src="assets/projects/project-4.png" width="100%" alt="Project Four"/>
+<p><strong>PROJECT NAME</strong></p>
+<p>Write a short description of your technology or innovation project.</p>
+<a href="https://github.com/aldooo777/REPOSITORY-4">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -136,12 +84,8 @@ A Java desktop application for managing hotel room reservations, guests, and adm
 
 <div align="center">
 
-### 💡 "Great things are built one line of code at a time."
+### "Code. Create. Innovate. Repeat."
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories.
-
-<img src="https://komarev.com/ghpvc/?username=aldooo777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+*Building my journey, one commit at a time.*
 
 </div>
